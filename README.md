@@ -38,7 +38,7 @@
 
 ---
 
-## Install
+## Install.
 
 | Platform | Safe start |
 |---|---|
