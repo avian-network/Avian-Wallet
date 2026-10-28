@@ -27,7 +27,7 @@
 
 | File | SHA-256 |
 |---|---|
-| [avian-wallet-v5.0.4-win64-setup.exe](https://github.com/avian-network/Avian-Wallet/releases/download/v5.0.4/avian-wallet-v5.0.4-win64-setup.exe) | `37374230f1628a7bbc9171ee1bb7aac2b2ed81657e97c56726936a9066148342` |
+| [avian-wallet-v5.0.4-win64-setup.exe](https://github.com/avian-network/Avian-Wallet/releases/download/v5.0.4/avian-wallet-v5.0.4-win64-setup.exe) | `d14cbb6839a1f6abeeef5564b1bdb2cae2a6a4f64d5e4a095557e12cf361c324` |
 | [avian-wallet-v5.0.4-apple.dmg](https://github.com/avian-network/Avian-Wallet/releases/download/v5.0.4/avian-wallet-v5.0.4-apple.dmg) | `a3cf1ceb765cf71880ff484cd30709556a7fe1bd4be5d049270b545df1e47fa4` |
 | [avian-wallet-v5.0.4-linux.zip](https://github.com/avian-network/Avian-Wallet/releases/download/v5.0.4/avian-wallet-v5.0.4-linux.zip) | `0ed72061d438371600c2fc8fd1270757d5769e562574d284fcf40b226e28da35` |
 
